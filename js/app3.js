@@ -9,31 +9,21 @@ particlesJS.load('particles-js', 'particles.json', function() {
 });
 */
 
-/* Otherwise just put the config content (json): 
-"circle" 
-"edge" 
-"triangle" 
-"polygon" 
-"star" 
-"image" 
-["circle", "edge", "triangle", "polygon", "star"]
-
-color == "random"
-*/
+/* Otherwise just put the config content (json): */
 
 particlesJS('white',
   
   {
     "particles": {
       "number": {
-        "value": 380,
+        "value": 280,
         "density": {
           "enable": true,
           "value_area": 800
         }
       },
       "color": {
-        "value":  ["#FFA500", "#008000"]   /*orange and green*/
+        "value": ["#FFA500", "#008000"]
       },
       "shape": {
         "type": ["circle", "edge", "triangle", "polygon", "star","image"],
@@ -45,7 +35,7 @@ particlesJS('white',
           "nb_sides": 5
         },
         "image": {
-          "src": "image/ashoka.png",
+          "src": "img/github.svg",
           "width": 100,
           "height": 100
         }
@@ -73,7 +63,7 @@ particlesJS('white',
       "line_linked": {
         "enable": true,
         "distance": 150,
-        "color": "#1ff",
+        "color": "#ffffff",
         "opacity": 0.4,
         "width": 1
       },
