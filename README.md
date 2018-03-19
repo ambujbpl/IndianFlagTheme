@@ -42,8 +42,11 @@ See also the list of [contributors](https://github.com/your/project/contributors
 ## Contact
 
 Web: www.ambujdubey.cf or https://ambujbpl.github.io
-Oter Website : http://ambujdubey.herokuapp.com
-Email: ambujdubey89@gmail.com
+
+Other Website : http://ambujdubey.herokuapp.com
+
+Email: ambujdubey@outlook.com
+
 Twitter: https://twitter.com/@mbujdubey
 
 ## License
