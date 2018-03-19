@@ -1,5 +1,4 @@
-# 
-# Project Title
+## Project Title
 
 Indian Flag Theme by using partical.js
 
@@ -12,7 +11,7 @@ clone the Project by using url "https://github.com/ambujbpl/IndianFlagTheme.git"
 What things you need to install the software and how to install them
 
 ```
-No need to install anything.
+particle.js.
 ```
 
 ### Installing
@@ -22,42 +21,17 @@ A step by step series of examples that tell you have to get a development env ru
 Say what the step will be
 
 ```
-Open Index.html file in your web browser.
+Open index.html file in your web browser.
 ```
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-N A
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-N A
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system - N A
+## Website URL
+https://ambujbpl.github.io/IndianFlagTheme
 
 ## Authors
 
-* **Ambuj Dubey** - *Initial work* - [PurpleBooth]( https://github.com/ambujbpl/IndianFlagTheme)
+* **Ambuj Dubey(www.ambujdubey.cf)** - *Initial work* - [PurpleBooth]( https://github.com/ambujbpl/IndianFlagTheme)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-N A
 
 ## Acknowledgments
 
@@ -65,5 +39,10 @@ N A
 * Inspiration
 * etc
 
+##Contact:
+Web: www.ambujdubey.cf or https://ambujbpl.github.io
+Oter Website : http://ambujdubey.herokuapp.com
+Email: ambujdubey89@gmail.com
+Twitter: https://twitter.com/@mbujdubey
 
-
+## License
