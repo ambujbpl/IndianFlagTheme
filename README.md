@@ -11,7 +11,7 @@ clone the Project by using url "https://github.com/ambujbpl/IndianFlagTheme.git"
 What things you need to install the software and how to install them
 
 ```
-particle.js.
+partical.js(java script library)
 ```
 
 ### Installing
@@ -39,7 +39,8 @@ See also the list of [contributors](https://github.com/your/project/contributors
 * Inspiration
 * etc
 
-##Contact:
+##Contact
+
 Web: www.ambujdubey.cf or https://ambujbpl.github.io
 Oter Website : http://ambujdubey.herokuapp.com
 Email: ambujdubey89@gmail.com
