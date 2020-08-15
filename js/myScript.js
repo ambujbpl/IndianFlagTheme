@@ -15,7 +15,7 @@ var span = document.getElementsByClassName("close")[0];
 // When the user clicks the button, open the modal 
 btn.onclick = function() {
     modal.style.display = "block";
-	$('#innerContain').html("<h1>Hello all,</h1><p class='lineHeight'>Independence Day of India was celebrated by the people all over the India on 15th of August 2017, at Tuesday.<br> This year in 2017, India is celebrating its 71th Independence Day to pay tribute and remember all the freedom fighters who had contributed a lot and fought for the Independence of India.<br><br> The first Independence Day was celebrated in India on 15th of August in 1947.</p>");
+	$('#innerContain').html("<h1>Hello all,</h1><p class='lineHeight'>The future of our country depends upon the actions of today.<br> Let us always be responsible. Happy Independence Day Let us celebrate August 15 with great and pomp show as well as utmost safety.<br> Happy 74th Independence Day to us!.</p>");
 }
 // When the user clicks the button, open the modal 
 orangeBtn.onclick = function() {
