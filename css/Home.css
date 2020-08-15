@@ -43,17 +43,15 @@
 	height: 10%;
     background-color: red;
     position: relative;
-    -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
-    -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
-    animation-name: example;
-    /*animation-duration: 4s;
-	animation-iteration-count: infinite;*/
-    -webkit-animation: mymove 10s infinite; /* Safari 4.0 - 8.0 */
-    animation: mymove 10s infinite;
+   /* -webkit-animation-name: example; 
+    -webkit-animation-duration: 4s;
+	animation-name: example;
+    -webkit-animation: mymove 10s infinite;
+	animation: mymove 10s infinite; */
 }
-.text {-webkit-animation-timing-function: ease-in-out;}
+/*.text {-webkit-animation-timing-function: ease-in-out;}
 .text {animation-timing-function: ease-in-out;}
-/* Safari 4.0 - 8.0 */
+ Safari 4.0 - 8.0 */
 @-webkit-keyframes mymove {
     from {left: 0px;}
     to {left: 50%;}
