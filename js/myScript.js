@@ -11,7 +11,7 @@ var whiteBtn = document.getElementById("white");
 var greenBtn = document.getElementById("green");
 // Get the <span> element that closes the modal
 var span = document.getElementsByClassName("close")[0];
-
+setTimeout(()=>{btn.click();},1000);
 // When the user clicks the button, open the modal 
 btn.onclick = function() {
     modal.style.display = "block";
