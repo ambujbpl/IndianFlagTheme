@@ -69,7 +69,7 @@ particlesJS('orange',
       },
       "move": {
         "enable": true,
-        "speed": 6,
+        "speed": 16,
         "direction": "none",
         "random": false,
         "straight": false,
